@@ -1,0 +1,3 @@
+AAPL,5
+TSLA,2
+GOOG,1
